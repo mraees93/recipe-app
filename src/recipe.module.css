@@ -1,0 +1,27 @@
+.recipe{
+    border: 2px solid lightblue;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px grey;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background:  white;
+    align-items: center;
+    min-width: 40%;
+    list-style:inside;
+    padding: 20px;
+}
+
+
+
+.image{
+    border-radius: 30px;
+    padding: 0;
+    box-shadow: 0 5px 20px grey;
+    border: 2px solid lightblue;
+}
+
+.Calories{
+    font-weight: bold;
+}
